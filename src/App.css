@@ -1,0 +1,11 @@
+/* src/App.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles here */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Lao&display=swap");
+
+* {
+    font-family: "Noto Sans Lao", sans-serif;
+}
